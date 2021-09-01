@@ -1,0 +1,20 @@
+
+#container ul {
+    display: flex;
+    justify-content: center;
+}
+
+#container ul li  {
+    display: flex;
+    margin-right: 20px;
+    font-weight: 600;
+}
+
+#container_footer {
+    display: flex;
+    justify-content: center;
+}
+
+#menu_utama {
+    justify-content: center;
+}
