@@ -10,11 +10,6 @@
     font-weight: 600;
 }
 
-#container_footer {
-    display: flex;
-    justify-content: center;
-}
-
 #menu_utama {
     justify-content: center;
 }
